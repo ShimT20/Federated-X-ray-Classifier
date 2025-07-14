@@ -13,7 +13,7 @@
 This project simulates a real-world healthcare scenario where hospitals collaboratively train an X-ray classification model without ever sharing sensitive patient data.
 We used Federated Learning to train a neural network across three virtual hospital nodes on the MURA dataset, with added encryption during weight sharing to enhance security.
 
-###  Authors
+### Authors
 
 Saad Naseer Mahfood
 
