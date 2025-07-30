@@ -23,24 +23,6 @@ Majid Mohamed Almheiri
 
 Ali Hamzeh Johar
 
-## Usage
-
-Train and test the federated model on MURA X-ray images:
-```py
-# change directories before running any of the code
-# Load and train model
->>> !jupyter notebook federated_learning_Model.ipyn
-```
-
-```bash
-# chage directories before running any of the code
-# Split dataset into 3 clients
-python Splitingdataset.py
-
-# Setup directory structure
-python directorysetup.py
-
-```
 ## Installation
 ```bash
 git clone https://github.com/shimT20/federated-xray-classifier.git
